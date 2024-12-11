@@ -161,8 +161,3 @@
     GPU-вычисления и параллельное программирование:
         Документация NVIDIA CUDA Toolkit: https://docs.nvidia.com/cuda/index.html
         cuRAND Library Documentation: https://docs.nvidia.com/cuda/curand/index.html
-
-    Практические примеры:
-        Реализация метода Монте-Карло для ценообразования опционов с использованием CUDA:
-
-            Примеры в открытых репозиториях GitHub (поиск "CUDA Monte Carlo option pricing").
