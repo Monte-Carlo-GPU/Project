@@ -12,7 +12,7 @@
 3. **Сборка**  
    Пример команды для сборки (уточните путь к файлам при необходимости):
    ```bash
-  nvcc -std=c++14 main.cpp kernel.cu -o program.exe -lcurand
+   nvcc -std=c++14 main.cpp kernel.cu -o program.exe -lcurand
    ```
 
 4. **Запуск**  
