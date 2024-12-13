@@ -200,3 +200,6 @@
 - Ценообразование опционов: Black, F. & Scholes, M. (1973). Journal of Political Economy; Hull, J.C. "Options, Futures, and Other Derivatives".  
 - Метод Монте-Карло: Glasserman, P. (2004). "Monte Carlo Methods in Financial Engineering", Springer.  
 - CUDA и cuRAND: Документация NVIDIA (https://docs.nvidia.com/cuda/index.html).
+
+**Авторы проекта:**
+Понетайкин Дмитрий и Черник Матвей
