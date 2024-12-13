@@ -35,6 +35,9 @@
 ![image](https://github.com/user-attachments/assets/dacfbf1f-8248-4a5a-9b3d-e8e254beec94)
 
 
+---
+---
+
 **Итоги проекта**
 
 Когда стоит пользоваться программой:
