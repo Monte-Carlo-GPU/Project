@@ -201,5 +201,12 @@
 - Метод Монте-Карло: Glasserman, P. (2004). "Monte Carlo Methods in Financial Engineering", Springer.  
 - CUDA и cuRAND: Документация NVIDIA (https://docs.nvidia.com/cuda/index.html).
 
+---
+
+**Итоги проекта:**
+Выявлены и отображены, как и все тесты и исследования в файле test&research.md
+
+---
+
 **Авторы проекта:**
 Понетайкин Дмитрий и Черник Матвей
