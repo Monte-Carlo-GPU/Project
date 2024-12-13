@@ -12,13 +12,13 @@
 3. **Сборка**  
    Пример команды для сборки (уточните путь к файлам при необходимости):
    ```bash
-   nvcc -o option_pricing main.cu kernel.cu -lcudart -lcurand
+  nvcc -std=c++14 main.cpp kernel.cu -o program.exe -lcurand
    ```
 
 4. **Запуск**  
    Выполните:
    ```bash
-   ./option_pricing
+   ./program.exe
    ```
    При запуске программа запросит у вас:  
    - Тип опциона (1 — колл, 2 — пут)  
